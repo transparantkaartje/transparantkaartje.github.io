@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Welkom
 ---
 # Transparant Kaartje - bijzondere visitekaartjes
 
