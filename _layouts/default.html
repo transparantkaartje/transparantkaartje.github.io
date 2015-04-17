@@ -4,27 +4,20 @@
   <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }}</title>
 </head>
 <body>
-  <div id='wrapper'>
-    <div id='header'>
-      <h1>Scott Chacon</h1>
-      <h2>is a tool of the masses</h2>
-    </div>
-    <div id='menu'>
+  <header>
+    <nav>
       <ul>
         <li><a href='/'>Welkom</a></li>
         <li><a href='/mogelijkheden-en-voorbeelden.html'>Mogelijkheden en voorbeelden</a></li>
-        <li><a href='/diensten.html'>Diensten</a></li>
         <li><a href='/ter-zake.html'>Prijzen e.d.</a></li>
+        <li><a href='/diensten.html'>Diensten</a></li>
         <li><a href='/contact.html'>Contact</a></li>
       </ul>
-    </div>
-    <div id='content'>
-      {{ content }}
-      <div class='clearfix'></div>
-    </div>
-  </div>
+    </nav>
+  </header>
+  {{ content }}
   <div id='footer'>
-    Copyright &copy;2015 Transparant Kaartje.
+    <p>Copyright &copy;2015 Transparant Kaartje</p>
   </div>
 </body>
 </html>
