@@ -22,6 +22,7 @@ Al met al heeft u vele mogelijkheden tot uw beschikking. Transparant Kaartje hee
 ## Materiaal
 
 U kunt kiezen uit twee standaardmaterialen:
+
 - **Ontspiegeld transparant PVC** folie met een dikte van 0,5 mm. Dit uiterst duurzame materiaal heeft door de relatief weinig last van krassen doordat er aan één zijde een fijne structuur is aangebracht. Het PVC is in principe glashelder, maar door de struktuur wordt het licht verstrooid en is het 'beeld' achter het kaartje wazig. Het materiaal is is vrij stijf waardoor de hoeken van een kaartje wanneer recht gesneden enigzins scherp kunnen zijn: u kunt daarom ronde hoekjes overwegen. Uw creditcards zijn ook van PVC, maar 0,67 mm dik en dus iets stijver.
 - Misschien nog wel chiquer is het **semi-transparant PP** folie van 0,8 mm dik. Dit materiaal is licht wittig zoals mat glas. Het materiaal onderscheidt zich ook van PVC door minder milieu-belastend te zijn. PP wordt ook in de voedingsindustrie en kinderspeeltjes gebruikt daar het niet giftig is in tegenstelling tot de meeste plastics.
 
@@ -31,7 +32,7 @@ Naast de standaardmaterialen zijn er nog vele opties. Volledig glashelder is mog
 
 Standaard worden de kaartjes gedrukt met strak dekkende UV inkt. We noemen enkele speciale inkten:
 
-- Metallics. Geen bruin dat goud moet voorstellen, maar goud! En zilver en brons. Metallics zijn mogelijk zonder meerprijs.
+- Metallic bedrukking. Geen bruin dat goud moet voorstellen, maar goud! En zilver en brons. Metallics zijn mogelijk zonder meerprijs.
 - Transparante inkten. Met een gedeeltelijk lak kan iedere kleur tot een vaag schijnsel 'verdund' worden: van 10% tot 90%. Ook in principe zonder meerprijs. Transparante kleuren zijn wel minder nauwkeurig te bepalen dan dekkende kleuren en lenen zich wat minder goed voor tekst-elementen in verband met leesbaarheid.
 - Parelmoer.
 - Oplichtend of van kleur veranderend onder invloed van licht.
