@@ -17,7 +17,7 @@ Maar ook een grof raster behoort tot de mogelijkheden. Dit leidde in het voorbee
     alt="Trouwkaart - 3 kleuren grof raster en transparantie geeft samen een mooie plaat."
     title="Trouwkaart">
 
-Al met al heeft u vele mogelijkheden tot uw beschikking. Transparant Kaartje heeft de beschikking over zeer ervaren zeefdrukkers die om u tot zoveel mogelijk in staat te stellen.
+Al met al heeft u vele mogelijkheden tot uw beschikking. Transparant Kaartje heeft de beschikking over zeer ervaren zeefdrukkers die u tot zoveel mogelijk in staat te stellen.
 
 ## Materiaal
 
