@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Mogelijkheden en voorbeelden
+title: Mogelijkheden
 ---
 
-# Mogelijkheden en voorbeelden
+# Mogelijkheden
 
 De zeefdruktechniek leent zich in het bijzonder goed voor strakke volvlakken. Zoals het voorbeeld hieronder:
 
