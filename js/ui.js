@@ -1,9 +1,5 @@
 (function (window, document) {
 
-    var layout   = document.getElementById('layout'),
-        menu     = document.getElementById('menu'),
-        menuLink = document.getElementById('menuLink');
-
     function toggleClass(element, className) {
         var classes = element.className.split(/\s+/),
             length = classes.length,
@@ -23,13 +19,11 @@
         element.className = classes.join(' ');
     }
 
-    menuLink.onclick = function (e) {
-        var active = 'active';
+    var layout   = document.getElementById('layout');
 
+    menuLink.onclick = function (e) {
         e.preventDefault();
-        toggleClass(layout, active);
-        toggleClass(menu, active);
-        toggleClass(menuLink, active);
+        toggleClass(layout, 'menu-activated');
     };
 
 }(this, this.document));

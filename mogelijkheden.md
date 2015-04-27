@@ -1,19 +1,18 @@
 ---
 layout: default
 title: Mogelijkheden
+subtitle: Zeer veel mogelijk door kundig zeefdruk
 ---
-
-# Mogelijkheden
 
 De zeefdruktechniek leent zich in het bijzonder goed voor strakke volvlakken. Zoals het voorbeeld hieronder:
 
-<img src="/images/verwoeste-steden.jpg"
+<img class="pure-img" src="/images/verwoeste-steden.jpg"
     alt="2 toegangsbewijskaarten van het VU-Kamerkoor"
     title="Verwoeste steden">
 
 Maar ook een grof raster behoort tot de mogelijkheden. Dit leidde in het voorbeeld hieronder tot een kunstzinnig resultaat:
 
-<img src="/images/trouwkaart.jpg"
+<img class="pure-img" src="/images/trouwkaart.jpg"
     alt="Trouwkaart - 3 kleuren grof raster en transparantie geeft samen een mooie plaat."
     title="Trouwkaart">
 
@@ -45,6 +44,6 @@ Standaard worden de kaartjes gedrukt met strak dekkende UV inkt. We noemen enkel
 
 ## Meer voorbeelden
 
-<img src="/images/frans-tanis.jpg" 
+<img class="pure-img" src="/images/frans-tanis.jpg" 
     alt="Visitekaartje meubelmakerij Frans Tanis"
     title="Visitekaart Frans Tanis">

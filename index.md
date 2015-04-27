@@ -1,8 +1,10 @@
 ---
 layout: default
-title: Welkom
+title: Transparant Kaartje
+subtitle: Bijzondere visitekaartjes
 ---
-# Transparant Kaartje - bijzondere visitekaartjes
+
+Welkom bij Transparant Kaartje!
 
 Wist u dat de geschiedenis van visitekaartjes teruggaat tot in de 17de eeuw aan het hof van Lodewijk XIV en als "tradecards" in Engeland?
 In de 19de eeuw werden ze meer gebruikt zoals we ze nu kennen, maar nog door een selecte groep mensen.

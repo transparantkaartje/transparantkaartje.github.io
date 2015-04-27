@@ -15,24 +15,39 @@
   <link rel="stylesheet" href="/css/main.css" type='text/css'>
 
 </head>
-<body>
-  <header>
-    <nav>
-      <ul>
-        <li><a href='/'>Welkom</a></li>
-        <li><a href='/mogelijkheden.html'>Mogelijkheden</a></li>
-        <li><a href='/aanleverspecificaties.html'>Aanleverspecificaties</a></li>
-        <li><a href='/prijzen-ed.html'>Prijzen e.d.</a></li>
-        <li><a href='/diensten.html'>Diensten</a></li>
-        <li><a href='/contact.html'>Contact</a></li>
+<body id="layout">
+  <a href="#menu" id="menuLink" class="menu-link">
+    <!-- Hamburger icon -->
+    <span></span>
+  </a>
+  <div id="menu">
+    <nav class="pure-menu">
+      <a class="pure-menu-heading" href="/">Transparant Kaartje</a>
+      <ul class="pure-menu-list">
+        <li class="pure-menu-item"><a class="pure-menu-link" href='/mogelijkheden.html'>Mogelijkheden</a></li>
+        <li class="pure-menu-item"><a class="pure-menu-link" href='/aanleverspecificaties.html'>Aanleveren</a></li>
+        <li class="pure-menu-item"><a class="pure-menu-link" href='/prijzen-ed.html'>Prijzen e.d.</a></li>
+        <li class="pure-menu-item"><a class="pure-menu-link" href='/diensten.html'>Diensten</a></li>
+        <li class="pure-menu-item"><a class="pure-menu-link" href='/contact.html'>Contact</a></li>
       </ul>
     </nav>
-  </header>
-  <main>
-    {{ content }}
-  </main>
-  <div id='footer'>
-    <p>Copyright &copy; <time>2015</time> Transparant Kaartje</p>
   </div>
+  <div id="page">
+    <header>
+      <div class="header-container">
+        {% if page.title %}<h1>{{ page.title }}</h1>{% endif %}
+        {% if page.subtitle %}<h2>{{ page.subtitle }}</h2>{% endif %}
+      </div>
+    </header>
+    <main id="content">
+      {{ content }}
+    </main>
+    <footer>
+      <div class="footer-container">
+        <p>Copyright &copy; <time>2015</time> Transparant Kaartje</p>
+      </div>
+    </footer>
+  </div>
+  <script src="/js/ui.js"></script>
 </body>
 </html>

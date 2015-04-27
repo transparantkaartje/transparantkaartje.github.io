@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Diensten
+subtitle: Ontwerpen en opmaken
 ---
-
-# Ontwerpen en opmaken
 
 Bij de aanleverspecificaties geven wij aan een goed grafisch "vector based" bestand nodig te hebben. Zo'n bestand is het uiteindelijke ontwerp. Mocht u een ontwerp gedeeltelijk af hebben, dan bieden wij de dienst om dit voor u af te maken, in samenspraak waar nodig. Wij rekenen hiervoor € 40,- per uur excl. BTW. Enkele voorbeelden:
 
